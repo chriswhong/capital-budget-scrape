@@ -73,8 +73,8 @@ Use `sh txt-to-json.sh` to run all three scrapers on each file in `/txt`, creati
 
 # Links
 
-- Prior work scraping the capital commitment plan (Github) to be cleaned up and incorporated into this repo.
-- An express website for exploring the capital budget (Live Site) (Github)
+- Prior work scraping the capital commitment plan ([Github](https://github.com/chriswhong/nyc-capital-commitments-scrape)) to be cleaned up and incorporated into this repo.
+- An express website for exploring the capital budget ([Live Site](https://capital-commitments.chriswhong.com/)) ([Github](https://github.com/chriswhong/nyc-capital-budget-site))
 
 # TODO
 

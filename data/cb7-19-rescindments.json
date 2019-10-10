@@ -1,0 +1,3424 @@
+[
+  {
+    "id": "AG-DN100",
+    "rescindments": {
+      "CN": 4662
+    }
+  },
+  {
+    "id": "AG-DN184",
+    "rescindments": {
+      "CN": 41344
+    }
+  },
+  {
+    "id": "AG-DN380",
+    "rescindments": {
+      "CN": 118000
+    }
+  },
+  {
+    "id": "AG-DN494",
+    "rescindments": {
+      "CN": 492090
+    }
+  },
+  {
+    "id": "AG-DN593",
+    "rescindments": {
+      "CN": 2486000
+    }
+  },
+  {
+    "id": "AG-DN798",
+    "rescindments": {
+      "CN": 3791
+    }
+  },
+  {
+    "id": "AG-D999",
+    "rescindments": {
+      "CN": 512592
+    }
+  },
+  {
+    "id": "AG-1",
+    "rescindments": {
+      "CN": 2183692
+    }
+  },
+  {
+    "id": "AG-2",
+    "rescindments": {
+      "CN": 3864284
+    }
+  },
+  {
+    "id": "BR-156",
+    "rescindments": {
+      "S": 115
+    }
+  },
+  {
+    "id": "BR-253",
+    "rescindments": {
+      "CN": 11000000,
+      "S": 4606832
+    }
+  },
+  {
+    "id": "BR-270",
+    "rescindments": {
+      "CN": 19660556,
+      "S": 4606947
+    }
+  },
+  {
+    "id": "C-95",
+    "rescindments": {
+      "CN": 18878
+    }
+  },
+  {
+    "id": "C-111",
+    "rescindments": {
+      "CN": 1000000
+    }
+  },
+  {
+    "id": "C-135",
+    "rescindments": {
+      "CN": 349
+    }
+  },
+  {
+    "id": "C-136",
+    "rescindments": {
+      "CN": 704000
+    }
+  },
+  {
+    "id": "C-141",
+    "rescindments": {
+      "CN": 90983
+    }
+  },
+  {
+    "id": "CO-80",
+    "rescindments": {
+      "CN": 205000
+    }
+  },
+  {
+    "id": "CO-276",
+    "rescindments": {
+      "CN": 1451220
+    }
+  },
+  {
+    "id": "CO-277",
+    "rescindments": {
+      "CN": 3392483,
+      "CX": 12102
+    }
+  },
+  {
+    "id": "CO-281",
+    "rescindments": {
+      "CN": 4634926
+    }
+  },
+  {
+    "id": "CO-283",
+    "rescindments": {
+      "CN": 8900954,
+      "CX": 7519
+    }
+  },
+  {
+    "id": "CO-285",
+    "rescindments": {
+      "CN": 8113499,
+      "CX": 89500
+    }
+  },
+  {
+    "id": "CO-287",
+    "rescindments": {
+      "CN": 171350
+    }
+  },
+  {
+    "id": "CO-290",
+    "rescindments": {
+      "CN": 9379847
+    }
+  },
+  {
+    "id": "CO-293",
+    "rescindments": {
+      "CX": 43701
+    }
+  },
+  {
+    "id": "CO-294",
+    "rescindments": {
+      "CN": 13282224,
+      "CX": 100
+    }
+  },
+  {
+    "id": "CO-295",
+    "rescindments": {
+      "CN": 3655500
+    }
+  },
+  {
+    "id": "CO-296",
+    "rescindments": {
+      "CX": 20001
+    }
+  },
+  {
+    "id": "CO-297",
+    "rescindments": {
+      "CX": 6697
+    }
+  },
+  {
+    "id": "CO-298",
+    "rescindments": {
+      "CN": 1230750
+    }
+  },
+  {
+    "id": "CO-301",
+    "rescindments": {
+      "CX": 2134
+    }
+  },
+  {
+    "id": "CO-304",
+    "rescindments": {
+      "CN": 2000000
+    }
+  },
+  {
+    "id": "CO-306",
+    "rescindments": {
+      "CN": 5078999,
+      "CX": 181754
+    }
+  },
+  {
+    "id": "CS-DN039",
+    "rescindments": {
+      "CN": 75000
+    }
+  },
+  {
+    "id": "CS-DN312",
+    "rescindments": {
+      "CN": 1196000
+    }
+  },
+  {
+    "id": "CS-DN615",
+    "rescindments": {
+      "CN": 103000
+    }
+  },
+  {
+    "id": "CS-2",
+    "rescindments": {
+      "CN": 5000000
+    }
+  },
+  {
+    "id": "CS-3",
+    "rescindments": {
+      "CN": 464788,
+      "S": 512193
+    }
+  },
+  {
+    "id": "CS-4",
+    "rescindments": {
+      "CN": 7000000,
+      "S": 512193
+    }
+  },
+  {
+    "id": "DP-2",
+    "rescindments": {
+      "CN": 45014577
+    }
+  },
+  {
+    "id": "E-2364",
+    "rescindments": {
+      "S": 133189000
+    }
+  },
+  {
+    "id": "E-3000",
+    "rescindments": {
+      "CN": 30000
+    }
+  },
+  {
+    "id": "E-3001",
+    "rescindments": {
+      "CN": 842600,
+      "S": 133189000
+    }
+  },
+  {
+    "id": "ED-DN069",
+    "rescindments": {
+      "CN": 340000
+    }
+  },
+  {
+    "id": "ED-DN137",
+    "rescindments": {
+      "CN": 777000
+    }
+  },
+  {
+    "id": "ED-DN447",
+    "rescindments": {
+      "CN": 1241
+    }
+  },
+  {
+    "id": "ED-DN632",
+    "rescindments": {
+      "CN": 23000
+    }
+  },
+  {
+    "id": "ED-DN827",
+    "rescindments": {
+      "CN": 1043000
+    }
+  },
+  {
+    "id": "ED-DN841",
+    "rescindments": {
+      "CN": 548000
+    }
+  },
+  {
+    "id": "ED-DN973",
+    "rescindments": {
+      "CN": 300000
+    }
+  },
+  {
+    "id": "ED-N261",
+    "rescindments": {
+      "CN": 7000
+    }
+  },
+  {
+    "id": "ED-N399",
+    "rescindments": {
+      "CN": 31000
+    }
+  },
+  {
+    "id": "ED-75",
+    "rescindments": {
+      "CN": 257013663
+    }
+  },
+  {
+    "id": "ED-387",
+    "rescindments": {
+      "CN": 33993
+    }
+  },
+  {
+    "id": "EP-4",
+    "rescindments": {
+      "CX": 186659
+    }
+  },
+  {
+    "id": "EP-5",
+    "rescindments": {
+      "CN": 11760403,
+      "CX": 127650,
+      "F": 568000
+    }
+  },
+  {
+    "id": "EP-6",
+    "rescindments": {
+      "CN": 219237
+    }
+  },
+  {
+    "id": "EP-8",
+    "rescindments": {
+      "CN": 8828216
+    }
+  },
+  {
+    "id": "EP-10",
+    "rescindments": {
+      "CX": 22798685,
+      "F": 1736000
+    }
+  },
+  {
+    "id": "F-109",
+    "rescindments": {
+      "F": 288893
+    }
+  },
+  {
+    "id": "FA-21",
+    "rescindments": {
+      "S": 3999999
+    }
+  },
+  {
+    "id": "FA-22",
+    "rescindments": {
+      "CN": 1000003
+    }
+  },
+  {
+    "id": "FA-27",
+    "rescindments": {
+      "CN": 364210,
+      "F": 758635,
+      "S": 1350999
+    }
+  },
+  {
+    "id": "FA-313",
+    "rescindments": {
+      "CN": 20000000,
+      "F": 55738100,
+      "S": 5350998
+    }
+  },
+  {
+    "id": "HA-D001",
+    "rescindments": {
+      "CN": 3100000
+    }
+  },
+  {
+    "id": "HA-1",
+    "rescindments": {
+      "F": 19999987
+    }
+  },
+  {
+    "id": "HB-61",
+    "rescindments": {
+      "CN": 6010445
+    }
+  },
+  {
+    "id": "HB-163",
+    "rescindments": {
+      "CN": 1288548
+    }
+  },
+  {
+    "id": "HB-199",
+    "rescindments": {
+      "CN": 1901978
+    }
+  },
+  {
+    "id": "HB-240",
+    "rescindments": {
+      "CN": 920000
+    }
+  },
+  {
+    "id": "HB-432",
+    "rescindments": {
+      "CN": 229998
+    }
+  },
+  {
+    "id": "HB-668",
+    "rescindments": {
+      "CN": 287497
+    }
+  },
+  {
+    "id": "HB-671",
+    "rescindments": {
+      "CN": 225000
+    }
+  },
+  {
+    "id": "HB-1014",
+    "rescindments": {
+      "CN": 784709
+    }
+  },
+  {
+    "id": "HB-1028",
+    "rescindments": {
+      "CN": 2543000
+    }
+  },
+  {
+    "id": "HB-1035",
+    "rescindments": {
+      "CN": 825
+    }
+  },
+  {
+    "id": "HB-1056",
+    "rescindments": {
+      "CN": 688255
+    }
+  },
+  {
+    "id": "HB-1078",
+    "rescindments": {
+      "CN": 7713653
+    }
+  },
+  {
+    "id": "HB-1090",
+    "rescindments": {
+      "CN": 1216499
+    }
+  },
+  {
+    "id": "HB-1091",
+    "rescindments": {
+      "CN": 574998
+    }
+  },
+  {
+    "id": "HB-1102",
+    "rescindments": {
+      "CN": 792
+    }
+  },
+  {
+    "id": "HB-1103",
+    "rescindments": {
+      "CN": 507805
+    }
+  },
+  {
+    "id": "HB-1112",
+    "rescindments": {
+      "CN": 373050
+    }
+  },
+  {
+    "id": "HB-1114",
+    "rescindments": {
+      "CN": 20250
+    }
+  },
+  {
+    "id": "HB-1137",
+    "rescindments": {
+      "CN": 122274
+    }
+  },
+  {
+    "id": "HB-1147",
+    "rescindments": {
+      "CN": 11486805,
+      "F": 11044730
+    }
+  },
+  {
+    "id": "HB-1148",
+    "rescindments": {
+      "CN": 78111
+    }
+  },
+  {
+    "id": "HB-1149",
+    "rescindments": {
+      "CN": 1149998
+    }
+  },
+  {
+    "id": "HB-1150",
+    "rescindments": {
+      "CN": 1011000
+    }
+  },
+  {
+    "id": "HB-1165",
+    "rescindments": {
+      "CN": 4406317,
+      "F": 667
+    }
+  },
+  {
+    "id": "HB-1181",
+    "rescindments": {
+      "CN": 695
+    }
+  },
+  {
+    "id": "HB-1182",
+    "rescindments": {
+      "CN": 695
+    }
+  },
+  {
+    "id": "HB-1189",
+    "rescindments": {
+      "F": 41956000
+    }
+  },
+  {
+    "id": "HB-1200",
+    "rescindments": {
+      "CN": 2589
+    }
+  },
+  {
+    "id": "HB-1208",
+    "rescindments": {
+      "CN": 80876
+    }
+  },
+  {
+    "id": "HB-1213",
+    "rescindments": {
+      "CN": 481699
+    }
+  },
+  {
+    "id": "HB-1214",
+    "rescindments": {
+      "CN": 1015371
+    }
+  },
+  {
+    "id": "HB-4310",
+    "rescindments": {
+      "CN": 531800
+    }
+  },
+  {
+    "id": "HB-4529",
+    "rescindments": {
+      "CN": 1026500
+    }
+  },
+  {
+    "id": "HB-6672",
+    "rescindments": {
+      "CN": 1594990
+    }
+  },
+  {
+    "id": "HB-7003",
+    "rescindments": {
+      "CN": 504269
+    }
+  },
+  {
+    "id": "HB-7055",
+    "rescindments": {
+      "CN": 964650,
+      "F": 53001397
+    }
+  },
+  {
+    "id": "HD-DN512",
+    "rescindments": {
+      "CN": 790667
+    }
+  },
+  {
+    "id": "HD-DN803",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "HD-DN805",
+    "rescindments": {
+      "CN": 75000
+    }
+  },
+  {
+    "id": "HD-D003",
+    "rescindments": {
+      "CN": 436000
+    }
+  },
+  {
+    "id": "HD-D020",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "HD-9",
+    "rescindments": {
+      "CN": 2000000
+    }
+  },
+  {
+    "id": "HD-16",
+    "rescindments": {
+      "CN": 844147
+    }
+  },
+  {
+    "id": "HD-94",
+    "rescindments": {
+      "CN": 5000000
+    }
+  },
+  {
+    "id": "HD-97",
+    "rescindments": {
+      "CN": 503
+    }
+  },
+  {
+    "id": "HD-98",
+    "rescindments": {
+      "CN": 5246945
+    }
+  },
+  {
+    "id": "HD-101",
+    "rescindments": {
+      "CN": 5973954
+    }
+  },
+  {
+    "id": "HD-102",
+    "rescindments": {
+      "CN": 50000,
+      "F": 362156
+    }
+  },
+  {
+    "id": "HD-103",
+    "rescindments": {
+      "CN": 303046
+    }
+  },
+  {
+    "id": "HD-107",
+    "rescindments": {
+      "F": 14604157
+    }
+  },
+  {
+    "id": "HD-109",
+    "rescindments": {
+      "F": 20000000
+    }
+  },
+  {
+    "id": "HD-150",
+    "rescindments": {
+      "CN": 898318,
+      "F": 399999
+    }
+  },
+  {
+    "id": "HD-153",
+    "rescindments": {
+      "CN": 54998
+    }
+  },
+  {
+    "id": "HD-154",
+    "rescindments": {
+      "CN": 901
+    }
+  },
+  {
+    "id": "HD-157",
+    "rescindments": {
+      "CN": 4000000
+    }
+  },
+  {
+    "id": "HD-161",
+    "rescindments": {
+      "CN": 8000000
+    }
+  },
+  {
+    "id": "HD-169",
+    "rescindments": {
+      "CN": 7810267,
+      "F": 16798588
+    }
+  },
+  {
+    "id": "HD-206",
+    "rescindments": {
+      "F": 8640000
+    }
+  },
+  {
+    "id": "HD-207",
+    "rescindments": {
+      "CN": 5000000,
+      "F": 20834117
+    }
+  },
+  {
+    "id": "HD-211",
+    "rescindments": {
+      "CN": 7500000,
+      "F": 7462
+    }
+  },
+  {
+    "id": "HD-212",
+    "rescindments": {
+      "F": 10729782
+    }
+  },
+  {
+    "id": "HD-217",
+    "rescindments": {
+      "CN": 1050000
+    }
+  },
+  {
+    "id": "HD-219",
+    "rescindments": {
+      "CN": 3503311
+    }
+  },
+  {
+    "id": "HD-223",
+    "rescindments": {
+      "CN": 19400000,
+      "F": 92376261
+    }
+  },
+  {
+    "id": "HH-DN701",
+    "rescindments": {
+      "CN": 47000
+    }
+  },
+  {
+    "id": "HH-25",
+    "rescindments": {
+      "CN": 747317
+    }
+  },
+  {
+    "id": "HL-DN014",
+    "rescindments": {
+      "CN": 615074
+    }
+  },
+  {
+    "id": "HL-DN023",
+    "rescindments": {
+      "CN": 154000
+    }
+  },
+  {
+    "id": "HL-DN036",
+    "rescindments": {
+      "CN": 200000
+    }
+  },
+  {
+    "id": "HL-DN045",
+    "rescindments": {
+      "CN": 533000
+    }
+  },
+  {
+    "id": "HL-DN050",
+    "rescindments": {
+      "CN": 896461
+    }
+  },
+  {
+    "id": "HL-DN073",
+    "rescindments": {
+      "CN": 40000
+    }
+  },
+  {
+    "id": "HL-DN084",
+    "rescindments": {
+      "CN": 2975000
+    }
+  },
+  {
+    "id": "HL-DN107",
+    "rescindments": {
+      "CN": 1500000
+    }
+  },
+  {
+    "id": "HL-DN108",
+    "rescindments": {
+      "CN": 560193
+    }
+  },
+  {
+    "id": "HL-DN163",
+    "rescindments": {
+      "CN": 175000
+    }
+  },
+  {
+    "id": "HL-DN164",
+    "rescindments": {
+      "CN": 278000
+    }
+  },
+  {
+    "id": "HL-DN201",
+    "rescindments": {
+      "CN": 7000
+    }
+  },
+  {
+    "id": "HL-DN252",
+    "rescindments": {
+      "CN": 189790
+    }
+  },
+  {
+    "id": "HL-DN295",
+    "rescindments": {
+      "CN": 512000
+    }
+  },
+  {
+    "id": "HL-DN316",
+    "rescindments": {
+      "CN": 91000
+    }
+  },
+  {
+    "id": "HL-DN321",
+    "rescindments": {
+      "CN": 16000
+    }
+  },
+  {
+    "id": "HL-DN328",
+    "rescindments": {
+      "CN": 9000
+    }
+  },
+  {
+    "id": "HL-DN336",
+    "rescindments": {
+      "CN": 155000
+    }
+  },
+  {
+    "id": "HL-DN357",
+    "rescindments": {
+      "CN": 375000
+    }
+  },
+  {
+    "id": "HL-DN359",
+    "rescindments": {
+      "CN": 1045000
+    }
+  },
+  {
+    "id": "HL-DN363",
+    "rescindments": {
+      "CN": 159000
+    }
+  },
+  {
+    "id": "HL-DN377",
+    "rescindments": {
+      "CN": 97000
+    }
+  },
+  {
+    "id": "HL-DN457",
+    "rescindments": {
+      "CN": 91000
+    }
+  },
+  {
+    "id": "HL-DN530",
+    "rescindments": {
+      "CN": 3595
+    }
+  },
+  {
+    "id": "HL-DN537",
+    "rescindments": {
+      "CN": 17608
+    }
+  },
+  {
+    "id": "HL-DN561",
+    "rescindments": {
+      "CN": 4000
+    }
+  },
+  {
+    "id": "HL-DN564",
+    "rescindments": {
+      "CN": 122459
+    }
+  },
+  {
+    "id": "HL-DN762",
+    "rescindments": {
+      "CN": 22000
+    }
+  },
+  {
+    "id": "HL-DN881",
+    "rescindments": {
+      "CN": 250000
+    }
+  },
+  {
+    "id": "HL-DN907",
+    "rescindments": {
+      "CN": 1480000
+    }
+  },
+  {
+    "id": "HL-DN908",
+    "rescindments": {
+      "CN": 5044
+    }
+  },
+  {
+    "id": "HL-D001",
+    "rescindments": {
+      "CN": 1005000
+    }
+  },
+  {
+    "id": "HL-D999",
+    "rescindments": {
+      "CN": 15085
+    }
+  },
+  {
+    "id": "HL-83",
+    "rescindments": {
+      "CN": 3751590
+    }
+  },
+  {
+    "id": "HN-C004",
+    "rescindments": {
+      "CN": 31391
+    }
+  },
+  {
+    "id": "HN-C005",
+    "rescindments": {
+      "CN": 17995
+    }
+  },
+  {
+    "id": "HN-DN566",
+    "rescindments": {
+      "CN": 164530
+    }
+  },
+  {
+    "id": "HN-D300",
+    "rescindments": {
+      "CN": 2250000
+    }
+  },
+  {
+    "id": "HN-206",
+    "rescindments": {
+      "S": 2057867,
+      "P": 2194415
+    }
+  },
+  {
+    "id": "HN-241",
+    "rescindments": {
+      "CN": 652
+    }
+  },
+  {
+    "id": "HN-244",
+    "rescindments": {
+      "CN": 2311306
+    }
+  },
+  {
+    "id": "HN-300",
+    "rescindments": {
+      "CN": 49932000,
+      "S": 2057867,
+      "P": 2194415
+    }
+  },
+  {
+    "id": "HO-214",
+    "rescindments": {
+      "S": 16500
+    }
+  },
+  {
+    "id": "HO-398",
+    "rescindments": {
+      "CN": 779689
+    }
+  },
+  {
+    "id": "HO-412",
+    "rescindments": {
+      "CN": 2000000,
+      "S": 16500
+    }
+  },
+  {
+    "id": "HR-C002",
+    "rescindments": {
+      "CN": 29325
+    }
+  },
+  {
+    "id": "HR-DN007",
+    "rescindments": {
+      "CN": 120000
+    }
+  },
+  {
+    "id": "HR-DN450",
+    "rescindments": {
+      "CN": 11975
+    }
+  },
+  {
+    "id": "HR-DN756",
+    "rescindments": {
+      "CN": 14465
+    }
+  },
+  {
+    "id": "HR-DN892",
+    "rescindments": {
+      "CN": 57000
+    }
+  },
+  {
+    "id": "HR-D999",
+    "rescindments": {
+      "CN": 460000
+    }
+  },
+  {
+    "id": "HR-109",
+    "rescindments": {
+      "F": 200000
+    }
+  },
+  {
+    "id": "HW-D101",
+    "rescindments": {
+      "CN": 1905000
+    }
+  },
+  {
+    "id": "HW-D102",
+    "rescindments": {
+      "CN": 457000
+    }
+  },
+  {
+    "id": "HW-D103",
+    "rescindments": {
+      "CN": 250000
+    }
+  },
+  {
+    "id": "HW-D104",
+    "rescindments": {
+      "CN": 200000
+    }
+  },
+  {
+    "id": "HW-D105",
+    "rescindments": {
+      "CN": 162000
+    }
+  },
+  {
+    "id": "HW-D200",
+    "rescindments": {
+      "CN": 300000
+    }
+  },
+  {
+    "id": "HW-1M",
+    "rescindments": {
+      "S": 39600
+    }
+  },
+  {
+    "id": "HW-1Q",
+    "rescindments": {
+      "F": 50757931
+    }
+  },
+  {
+    "id": "HW-1R",
+    "rescindments": {
+      "CN": 3895118,
+      "F": 3332947,
+      "S": 11050
+    }
+  },
+  {
+    "id": "HW-1X",
+    "rescindments": {
+      "S": 1199000
+    }
+  },
+  {
+    "id": "HW-2K",
+    "rescindments": {
+      "F": 1759714,
+      "S": 998
+    }
+  },
+  {
+    "id": "HW-2Q",
+    "rescindments": {
+      "F": 700000
+    }
+  },
+  {
+    "id": "HW-61",
+    "rescindments": {
+      "P": 24000
+    }
+  },
+  {
+    "id": "HW-200",
+    "rescindments": {
+      "F": 16242520,
+      "S": 3207903
+    }
+  },
+  {
+    "id": "HW-280",
+    "rescindments": {
+      "CN": 477
+    }
+  },
+  {
+    "id": "HW-348",
+    "rescindments": {
+      "CX": 166
+    }
+  },
+  {
+    "id": "HW-384",
+    "rescindments": {
+      "CN": 220000
+    }
+  },
+  {
+    "id": "HW-411",
+    "rescindments": {
+      "CN": 616949
+    }
+  },
+  {
+    "id": "HW-421",
+    "rescindments": {
+      "CN": 105812
+    }
+  },
+  {
+    "id": "HW-472",
+    "rescindments": {
+      "CN": 20356
+    }
+  },
+  {
+    "id": "HW-614",
+    "rescindments": {
+      "CN": 604086
+    }
+  },
+  {
+    "id": "HW-631",
+    "rescindments": {
+      "CN": 16250
+    }
+  },
+  {
+    "id": "HW-675",
+    "rescindments": {
+      "CN": 10350
+    }
+  },
+  {
+    "id": "HW-724",
+    "rescindments": {
+      "CN": 4275249
+    }
+  },
+  {
+    "id": "HW-779",
+    "rescindments": {
+      "F": 1317699
+    }
+  },
+  {
+    "id": "HW-788",
+    "rescindments": {
+      "CN": 15450
+    }
+  },
+  {
+    "id": "HW-796",
+    "rescindments": {
+      "F": 4000000
+    }
+  },
+  {
+    "id": "HW-890",
+    "rescindments": {
+      "CN": 2086499
+    }
+  },
+  {
+    "id": "HW-919",
+    "rescindments": {
+      "CN": 598049
+    }
+  },
+  {
+    "id": "HW-988",
+    "rescindments": {
+      "S": 5162915
+    }
+  },
+  {
+    "id": "HW-1027",
+    "rescindments": {
+      "CN": 143748
+    }
+  },
+  {
+    "id": "HW-1126",
+    "rescindments": {
+      "CN": 74999
+    }
+  },
+  {
+    "id": "HW-1140",
+    "rescindments": {
+      "CN": 11443531
+    }
+  },
+  {
+    "id": "HW-1668",
+    "rescindments": {
+      "CN": 862500
+    }
+  },
+  {
+    "id": "HW-1670",
+    "rescindments": {
+      "F": 24415413
+    }
+  },
+  {
+    "id": "HW-1672",
+    "rescindments": {
+      "CN": 780631,
+      "S": 94193
+    }
+  },
+  {
+    "id": "HW-1675",
+    "rescindments": {
+      "CN": 385050
+    }
+  },
+  {
+    "id": "HW-1683",
+    "rescindments": {
+      "CN": 438
+    }
+  },
+  {
+    "id": "HW-1684",
+    "rescindments": {
+      "CN": 20576919,
+      "F": 151389435,
+      "CX": 166,
+      "S": 9715659,
+      "P": 24000
+    }
+  },
+  {
+    "id": "L-105",
+    "rescindments": {
+      "F": 3000000
+    }
+  },
+  {
+    "id": "LB-C104",
+    "rescindments": {
+      "CN": 1812
+    }
+  },
+  {
+    "id": "LN-C003",
+    "rescindments": {
+      "CN": 3372
+    }
+  },
+  {
+    "id": "LN-8",
+    "rescindments": {
+      "S": 1325000,
+      "P": 1900000
+    }
+  },
+  {
+    "id": "LN-101R",
+    "rescindments": {
+      "P": 43998
+    }
+  },
+  {
+    "id": "LN-101X",
+    "rescindments": {
+      "P": 1944998,
+      "S": 1325000
+    }
+  },
+  {
+    "id": "MT-3",
+    "rescindments": {
+      "CN": 23042441,
+      "S": 24573441
+    }
+  },
+  {
+    "id": "P-C017",
+    "rescindments": {
+      "CN": 270284
+    }
+  },
+  {
+    "id": "P-C018",
+    "rescindments": {
+      "CN": 186050
+    }
+  },
+  {
+    "id": "P-C019",
+    "rescindments": {
+      "CN": 188858
+    }
+  },
+  {
+    "id": "P-C020",
+    "rescindments": {
+      "CN": 552000
+    }
+  },
+  {
+    "id": "P-C021",
+    "rescindments": {
+      "CN": 135625
+    }
+  },
+  {
+    "id": "P-C053",
+    "rescindments": {
+      "CN": 775
+    }
+  },
+  {
+    "id": "P-DN510",
+    "rescindments": {
+      "CN": 88000
+    }
+  },
+  {
+    "id": "P-DN665",
+    "rescindments": {
+      "CN": 250000
+    }
+  },
+  {
+    "id": "P-D018",
+    "rescindments": {
+      "CN": 6385000
+    }
+  },
+  {
+    "id": "P-D171",
+    "rescindments": {
+      "CN": 15000
+    }
+  },
+  {
+    "id": "P-D933",
+    "rescindments": {
+      "CN": 17000
+    }
+  },
+  {
+    "id": "P-7",
+    "rescindments": {
+      "CN": 1619439
+    }
+  },
+  {
+    "id": "P-13",
+    "rescindments": {
+      "CN": 4744417
+    }
+  },
+  {
+    "id": "P-60",
+    "rescindments": {
+      "CN": 792840
+    }
+  },
+  {
+    "id": "P-77",
+    "rescindments": {
+      "CN": 96976
+    }
+  },
+  {
+    "id": "P-87",
+    "rescindments": {
+      "CN": 90000
+    }
+  },
+  {
+    "id": "P-127",
+    "rescindments": {
+      "CN": 63726
+    }
+  },
+  {
+    "id": "P-174",
+    "rescindments": {
+      "CN": 213
+    }
+  },
+  {
+    "id": "P-221",
+    "rescindments": {
+      "CN": 1120
+    }
+  },
+  {
+    "id": "P-245K",
+    "rescindments": {
+      "F": 2349905,
+      "S": 3746415,
+      "P": 57000
+    }
+  },
+  {
+    "id": "P-245M",
+    "rescindments": {
+      "F": 2922649,
+      "S": 63367,
+      "P": 3853561
+    }
+  },
+  {
+    "id": "P-245Q",
+    "rescindments": {
+      "S": 90000
+    }
+  },
+  {
+    "id": "P-245R",
+    "rescindments": {
+      "CN": 8205153
+    }
+  },
+  {
+    "id": "P-245X",
+    "rescindments": {
+      "CN": 6299127
+    }
+  },
+  {
+    "id": "P-272",
+    "rescindments": {
+      "CN": 330556
+    }
+  },
+  {
+    "id": "P-374",
+    "rescindments": {
+      "CN": 300700
+    }
+  },
+  {
+    "id": "P-380",
+    "rescindments": {
+      "CN": 530064
+    }
+  },
+  {
+    "id": "P-412",
+    "rescindments": {
+      "S": 999
+    }
+  },
+  {
+    "id": "P-450",
+    "rescindments": {
+      "CN": 15219
+    }
+  },
+  {
+    "id": "P-475",
+    "rescindments": {
+      "CN": 22280
+    }
+  },
+  {
+    "id": "P-581",
+    "rescindments": {
+      "CN": 103081
+    }
+  },
+  {
+    "id": "P-605",
+    "rescindments": {
+      "CN": 4965100
+    }
+  },
+  {
+    "id": "P-697",
+    "rescindments": {
+      "F": 80180
+    }
+  },
+  {
+    "id": "P-705",
+    "rescindments": {
+      "CN": 749807
+    }
+  },
+  {
+    "id": "P-720",
+    "rescindments": {
+      "CN": 1209800
+    }
+  },
+  {
+    "id": "P-721",
+    "rescindments": {
+      "CN": 268785
+    }
+  },
+  {
+    "id": "P-801",
+    "rescindments": {
+      "CN": 2000003
+    }
+  },
+  {
+    "id": "P-828",
+    "rescindments": {
+      "CN": 297130
+    }
+  },
+  {
+    "id": "P-839",
+    "rescindments": {
+      "S": 370000
+    }
+  },
+  {
+    "id": "P-848",
+    "rescindments": {
+      "CN": 3786702
+    }
+  },
+  {
+    "id": "P-887",
+    "rescindments": {
+      "CN": 6657348
+    }
+  },
+  {
+    "id": "P-926",
+    "rescindments": {
+      "CN": 840000
+    }
+  },
+  {
+    "id": "P-933",
+    "rescindments": {
+      "CN": 1112094
+    }
+  },
+  {
+    "id": "P-935",
+    "rescindments": {
+      "CN": 2322000
+    }
+  },
+  {
+    "id": "P-936",
+    "rescindments": {
+      "CN": 298699
+    }
+  },
+  {
+    "id": "P-938",
+    "rescindments": {
+      "CN": 499999
+    }
+  },
+  {
+    "id": "P-944",
+    "rescindments": {
+      "S": 84024
+    }
+  },
+  {
+    "id": "P-963",
+    "rescindments": {
+      "CN": 1224556,
+      "F": 1121300
+    }
+  },
+  {
+    "id": "P-968",
+    "rescindments": {
+      "CN": 1087
+    }
+  },
+  {
+    "id": "P-972",
+    "rescindments": {
+      "CN": 4138
+    }
+  },
+  {
+    "id": "P-977",
+    "rescindments": {
+      "CN": 2000000
+    }
+  },
+  {
+    "id": "P-1001",
+    "rescindments": {
+      "CN": 600000
+    }
+  },
+  {
+    "id": "P-1008",
+    "rescindments": {
+      "CN": 4097095,
+      "S": 71000
+    }
+  },
+  {
+    "id": "P-1018",
+    "rescindments": {
+      "F": 100000000,
+      "S": 3564460
+    }
+  },
+  {
+    "id": "P-1130",
+    "rescindments": {
+      "CN": 500001
+    }
+  },
+  {
+    "id": "P-1141",
+    "rescindments": {
+      "CN": 118100
+    }
+  },
+  {
+    "id": "P-1245",
+    "rescindments": {
+      "CN": 6168150
+    }
+  },
+  {
+    "id": "P-1321",
+    "rescindments": {
+      "CN": 10000000
+    }
+  },
+  {
+    "id": "P-1324",
+    "rescindments": {
+      "CN": 74510
+    }
+  },
+  {
+    "id": "P-1325",
+    "rescindments": {
+      "CN": 968130
+    }
+  },
+  {
+    "id": "P-1326",
+    "rescindments": {
+      "F": 1000,
+      "P": 15972000
+    }
+  },
+  {
+    "id": "P-1329",
+    "rescindments": {
+      "CN": 542525,
+      "F": 106475034,
+      "S": 7990265,
+      "P": 19882561
+    }
+  },
+  {
+    "id": "PO-D185",
+    "rescindments": {
+      "CN": 64000
+    }
+  },
+  {
+    "id": "PO-142",
+    "rescindments": {
+      "CN": 8618
+    }
+  },
+  {
+    "id": "PU-D016",
+    "rescindments": {
+      "CN": 35000
+    }
+  },
+  {
+    "id": "PU-16A",
+    "rescindments": {
+      "CN": 32694523
+    }
+  },
+  {
+    "id": "PU-22",
+    "rescindments": {
+      "CX": 6316000
+    }
+  },
+  {
+    "id": "PV-C490",
+    "rescindments": {
+      "CN": 888
+    }
+  },
+  {
+    "id": "PV-C525",
+    "rescindments": {
+      "P": 1185
+    }
+  },
+  {
+    "id": "PV-DN001",
+    "rescindments": {
+      "CN": 166000
+    }
+  },
+  {
+    "id": "PV-DN002",
+    "rescindments": {
+      "CN": 66000
+    }
+  },
+  {
+    "id": "PV-DN022",
+    "rescindments": {
+      "CN": 10000
+    }
+  },
+  {
+    "id": "PV-DN076",
+    "rescindments": {
+      "CN": 137000
+    }
+  },
+  {
+    "id": "PV-DN091",
+    "rescindments": {
+      "CN": 14774
+    }
+  },
+  {
+    "id": "PV-DN127",
+    "rescindments": {
+      "CN": 13000
+    }
+  },
+  {
+    "id": "PV-DN131",
+    "rescindments": {
+      "CN": 145000
+    }
+  },
+  {
+    "id": "PV-DN181",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "PV-DN185",
+    "rescindments": {
+      "CN": 11000
+    }
+  },
+  {
+    "id": "PV-DN197",
+    "rescindments": {
+      "CN": 16000
+    }
+  },
+  {
+    "id": "PV-DN199",
+    "rescindments": {
+      "CN": 56000
+    }
+  },
+  {
+    "id": "PV-DN204",
+    "rescindments": {
+      "CN": 4000
+    }
+  },
+  {
+    "id": "PV-DN213",
+    "rescindments": {
+      "CN": 74000
+    }
+  },
+  {
+    "id": "PV-DN233",
+    "rescindments": {
+      "CN": 127000
+    }
+  },
+  {
+    "id": "PV-DN256",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "PV-DN266",
+    "rescindments": {
+      "CN": 343
+    }
+  },
+  {
+    "id": "PV-DN373",
+    "rescindments": {
+      "CN": 979
+    }
+  },
+  {
+    "id": "PV-DN375",
+    "rescindments": {
+      "CN": 3000
+    }
+  },
+  {
+    "id": "PV-DN411",
+    "rescindments": {
+      "CN": 19000
+    }
+  },
+  {
+    "id": "PV-DN417",
+    "rescindments": {
+      "CN": 59044
+    }
+  },
+  {
+    "id": "PV-DN419",
+    "rescindments": {
+      "CN": 3000
+    }
+  },
+  {
+    "id": "PV-DN426",
+    "rescindments": {
+      "CN": 51000
+    }
+  },
+  {
+    "id": "PV-DN430",
+    "rescindments": {
+      "CN": 200000
+    }
+  },
+  {
+    "id": "PV-DN454",
+    "rescindments": {
+      "CN": 1687
+    }
+  },
+  {
+    "id": "PV-DN569",
+    "rescindments": {
+      "CN": 12000
+    }
+  },
+  {
+    "id": "PV-DN575",
+    "rescindments": {
+      "CN": 36000
+    }
+  },
+  {
+    "id": "PV-DN577",
+    "rescindments": {
+      "CN": 3000
+    }
+  },
+  {
+    "id": "PV-DN579",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "PV-DN606",
+    "rescindments": {
+      "CN": 33000
+    }
+  },
+  {
+    "id": "PV-DN607",
+    "rescindments": {
+      "CN": 27000
+    }
+  },
+  {
+    "id": "PV-DN645",
+    "rescindments": {
+      "CN": 54000
+    }
+  },
+  {
+    "id": "PV-DN666",
+    "rescindments": {
+      "CN": 35000
+    }
+  },
+  {
+    "id": "PV-DN694",
+    "rescindments": {
+      "CN": 5000
+    }
+  },
+  {
+    "id": "PV-DN726",
+    "rescindments": {
+      "CN": 150000
+    }
+  },
+  {
+    "id": "PV-DN736",
+    "rescindments": {
+      "CN": 2505
+    }
+  },
+  {
+    "id": "PV-DN743",
+    "rescindments": {
+      "CN": 100000
+    }
+  },
+  {
+    "id": "PV-DN766",
+    "rescindments": {
+      "CN": 83000
+    }
+  },
+  {
+    "id": "PV-DN773",
+    "rescindments": {
+      "CN": 18000
+    }
+  },
+  {
+    "id": "PV-DN819",
+    "rescindments": {
+      "CN": 111000
+    }
+  },
+  {
+    "id": "PV-DN910",
+    "rescindments": {
+      "CN": 5603
+    }
+  },
+  {
+    "id": "PV-DN959",
+    "rescindments": {
+      "CN": 8400000
+    }
+  },
+  {
+    "id": "PV-D467",
+    "rescindments": {
+      "CN": 110000
+    }
+  },
+  {
+    "id": "PV-D999",
+    "rescindments": {
+      "CN": 217000
+    }
+  },
+  {
+    "id": "PV-N027",
+    "rescindments": {
+      "CN": 119600
+    }
+  },
+  {
+    "id": "PV-N066",
+    "rescindments": {
+      "CN": 411
+    }
+  },
+  {
+    "id": "PV-N080",
+    "rescindments": {
+      "CN": 35000
+    }
+  },
+  {
+    "id": "PV-N120",
+    "rescindments": {
+      "CN": 112000
+    }
+  },
+  {
+    "id": "PV-N131",
+    "rescindments": {
+      "CN": 4000
+    }
+  },
+  {
+    "id": "PV-N132",
+    "rescindments": {
+      "CN": 16000
+    }
+  },
+  {
+    "id": "PV-N161",
+    "rescindments": {
+      "CN": 6416
+    }
+  },
+  {
+    "id": "PV-N197",
+    "rescindments": {
+      "CN": 23000
+    }
+  },
+  {
+    "id": "PV-N222",
+    "rescindments": {
+      "CN": 68000
+    }
+  },
+  {
+    "id": "PV-N251",
+    "rescindments": {
+      "CN": 2300
+    }
+  },
+  {
+    "id": "PV-N314",
+    "rescindments": {
+      "CN": 37755
+    }
+  },
+  {
+    "id": "PV-N320",
+    "rescindments": {
+      "CN": 20144
+    }
+  },
+  {
+    "id": "PV-N375",
+    "rescindments": {
+      "CN": 6999
+    }
+  },
+  {
+    "id": "PV-N412",
+    "rescindments": {
+      "CN": 425000
+    }
+  },
+  {
+    "id": "PV-N454",
+    "rescindments": {
+      "CN": 11999
+    }
+  },
+  {
+    "id": "PV-N462",
+    "rescindments": {
+      "CN": 210000
+    }
+  },
+  {
+    "id": "PV-N476",
+    "rescindments": {
+      "CN": 5485
+    }
+  },
+  {
+    "id": "PV-N575",
+    "rescindments": {
+      "CN": 3450
+    }
+  },
+  {
+    "id": "PV-N578",
+    "rescindments": {
+      "CN": 9450000
+    }
+  },
+  {
+    "id": "PV-N657",
+    "rescindments": {
+      "CN": 1150
+    }
+  },
+  {
+    "id": "PV-N666",
+    "rescindments": {
+      "CN": 115000
+    }
+  },
+  {
+    "id": "PV-N694",
+    "rescindments": {
+      "CN": 22000
+    }
+  },
+  {
+    "id": "PV-N719",
+    "rescindments": {
+      "CN": 41000
+    }
+  },
+  {
+    "id": "PV-N760",
+    "rescindments": {
+      "CN": 50000
+    }
+  },
+  {
+    "id": "PV-N773",
+    "rescindments": {
+      "CN": 18000
+    }
+  },
+  {
+    "id": "PV-N789",
+    "rescindments": {
+      "CN": 23000
+    }
+  },
+  {
+    "id": "PV-N811",
+    "rescindments": {
+      "CN": 15040
+    }
+  },
+  {
+    "id": "PV-206",
+    "rescindments": {
+      "CN": 108999
+    }
+  },
+  {
+    "id": "PV-230",
+    "rescindments": {
+      "CN": 8526634
+    }
+  },
+  {
+    "id": "PV-234",
+    "rescindments": {
+      "CN": 2675000
+    }
+  },
+  {
+    "id": "PV-235",
+    "rescindments": {
+      "CN": 7947812
+    }
+  },
+  {
+    "id": "PV-236",
+    "rescindments": {
+      "CN": 3000
+    }
+  },
+  {
+    "id": "PV-241",
+    "rescindments": {
+      "P": 40000
+    }
+  },
+  {
+    "id": "PV-546",
+    "rescindments": {
+      "F": 3600247,
+      "S": 1075156
+    }
+  },
+  {
+    "id": "PV-999",
+    "rescindments": {
+      "CN": 54704,
+      "F": 3600247,
+      "S": 1075156,
+      "P": 41185
+    }
+  },
+  {
+    "id": "PW-C077",
+    "rescindments": {
+      "CN": 52551
+    }
+  },
+  {
+    "id": "PW-DN004",
+    "rescindments": {
+      "CN": 38000
+    }
+  },
+  {
+    "id": "PW-DN055",
+    "rescindments": {
+      "CN": 100000
+    }
+  },
+  {
+    "id": "PW-DN094",
+    "rescindments": {
+      "CN": 90000
+    }
+  },
+  {
+    "id": "PW-DN116",
+    "rescindments": {
+      "CN": 41000
+    }
+  },
+  {
+    "id": "PW-DN128",
+    "rescindments": {
+      "CN": 242218
+    }
+  },
+  {
+    "id": "PW-DN142",
+    "rescindments": {
+      "CN": 126000
+    }
+  },
+  {
+    "id": "PW-DN165",
+    "rescindments": {
+      "CN": 51159
+    }
+  },
+  {
+    "id": "PW-DN173",
+    "rescindments": {
+      "CN": 28058
+    }
+  },
+  {
+    "id": "PW-DN206",
+    "rescindments": {
+      "CN": 50000
+    }
+  },
+  {
+    "id": "PW-DN237",
+    "rescindments": {
+      "CN": 15155
+    }
+  },
+  {
+    "id": "PW-DN248",
+    "rescindments": {
+      "CN": 290000
+    }
+  },
+  {
+    "id": "PW-DN249",
+    "rescindments": {
+      "CN": 26000
+    }
+  },
+  {
+    "id": "PW-DN284",
+    "rescindments": {
+      "CN": 25000
+    }
+  },
+  {
+    "id": "PW-DN311",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "PW-DN317",
+    "rescindments": {
+      "CN": 50025
+    }
+  },
+  {
+    "id": "PW-DN325",
+    "rescindments": {
+      "CN": 103000
+    }
+  },
+  {
+    "id": "PW-DN371",
+    "rescindments": {
+      "CN": 1602000
+    }
+  },
+  {
+    "id": "PW-DN379",
+    "rescindments": {
+      "CN": 298000
+    }
+  },
+  {
+    "id": "PW-DN465",
+    "rescindments": {
+      "CN": 300000
+    }
+  },
+  {
+    "id": "PW-DN589",
+    "rescindments": {
+      "CN": 8006
+    }
+  },
+  {
+    "id": "PW-DN590",
+    "rescindments": {
+      "CN": 57000
+    }
+  },
+  {
+    "id": "PW-DN625",
+    "rescindments": {
+      "CN": 503000
+    }
+  },
+  {
+    "id": "PW-DN643",
+    "rescindments": {
+      "CN": 699780
+    }
+  },
+  {
+    "id": "PW-DN671",
+    "rescindments": {
+      "CN": 1389
+    }
+  },
+  {
+    "id": "PW-DN672",
+    "rescindments": {
+      "CN": 45818
+    }
+  },
+  {
+    "id": "PW-DN673",
+    "rescindments": {
+      "CN": 81000
+    }
+  },
+  {
+    "id": "PW-DN700",
+    "rescindments": {
+      "CN": 718000
+    }
+  },
+  {
+    "id": "PW-DN707",
+    "rescindments": {
+      "CN": 94798
+    }
+  },
+  {
+    "id": "PW-DN709",
+    "rescindments": {
+      "CN": 6235
+    }
+  },
+  {
+    "id": "PW-DN727",
+    "rescindments": {
+      "CN": 226000
+    }
+  },
+  {
+    "id": "PW-DN734",
+    "rescindments": {
+      "CN": 4966
+    }
+  },
+  {
+    "id": "PW-DN764",
+    "rescindments": {
+      "CN": 386000
+    }
+  },
+  {
+    "id": "PW-DN765",
+    "rescindments": {
+      "CN": 21218
+    }
+  },
+  {
+    "id": "PW-DN768",
+    "rescindments": {
+      "CN": 10520
+    }
+  },
+  {
+    "id": "PW-DN780",
+    "rescindments": {
+      "CN": 25126
+    }
+  },
+  {
+    "id": "PW-DN855",
+    "rescindments": {
+      "CN": 927
+    }
+  },
+  {
+    "id": "PW-DN940",
+    "rescindments": {
+      "CN": 155000
+    }
+  },
+  {
+    "id": "PW-DN945",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "PW-DN953",
+    "rescindments": {
+      "CN": 43000
+    }
+  },
+  {
+    "id": "PW-DN979",
+    "rescindments": {
+      "CN": 72000
+    }
+  },
+  {
+    "id": "PW-D005",
+    "rescindments": {
+      "CN": 1011425
+    }
+  },
+  {
+    "id": "PW-D999",
+    "rescindments": {
+      "CN": 13576
+    }
+  },
+  {
+    "id": "PW-N055",
+    "rescindments": {
+      "CN": 401000
+    }
+  },
+  {
+    "id": "PW-77",
+    "rescindments": {
+      "P": 502000
+    }
+  },
+  {
+    "id": "PW-195",
+    "rescindments": {
+      "CN": 1602948
+    }
+  },
+  {
+    "id": "PW-266",
+    "rescindments": {
+      "CN": 1062068
+    }
+  },
+  {
+    "id": "PW-282",
+    "rescindments": {
+      "CN": 140471
+    }
+  },
+  {
+    "id": "PW-291",
+    "rescindments": {
+      "CN": 27850
+    }
+  },
+  {
+    "id": "PW-300",
+    "rescindments": {
+      "CN": 305872
+    }
+  },
+  {
+    "id": "PW-310",
+    "rescindments": {
+      "CN": 2709749
+    }
+  },
+  {
+    "id": "PW-311",
+    "rescindments": {
+      "CN": 8092542
+    }
+  },
+  {
+    "id": "PW-316",
+    "rescindments": {
+      "P": 459000
+    }
+  },
+  {
+    "id": "PW-317",
+    "rescindments": {
+      "CN": 908362
+    }
+  },
+  {
+    "id": "PW-325",
+    "rescindments": {
+      "CN": 24072975
+    }
+  },
+  {
+    "id": "T-141",
+    "rescindments": {
+      "CN": 5175000
+    }
+  },
+  {
+    "id": "TD-19",
+    "rescindments": {
+      "F": 1330159
+    }
+  },
+  {
+    "id": "TF-1",
+    "rescindments": {
+      "F": 2474340
+    }
+  },
+  {
+    "id": "TF-2",
+    "rescindments": {
+      "P": 5000
+    }
+  },
+  {
+    "id": "TF-18",
+    "rescindments": {
+      "CN": 7342299
+    }
+  },
+  {
+    "id": "TF-503",
+    "rescindments": {
+      "F": 7710679
+    }
+  },
+  {
+    "id": "TF-777",
+    "rescindments": {
+      "CN": 5549477,
+      "F": 11759800,
+      "P": 5000
+    }
+  },
+  {
+    "id": "W-5",
+    "rescindments": {
+      "CX": 7484524
+    }
+  },
+  {
+    "id": "W-10",
+    "rescindments": {
+      "CX": 5852384
+    }
+  },
+  {
+    "id": "W-15",
+    "rescindments": {
+      "CX": 323706
+    }
+  },
+  {
+    "id": "W-20",
+    "rescindments": {
+      "CX": 3000012
+    }
+  },
+  {
+    "id": "WM-1",
+    "rescindments": {
+      "F": 383006
+    }
+  },
+  {
+    "id": "WM-6",
+    "rescindments": {
+      "CN": 9999
+    }
+  },
+  {
+    "id": "WM-30",
+    "rescindments": {
+      "F": 1436808
+    }
+  },
+  {
+    "id": "WP-56",
+    "rescindments": {
+      "CX": 23010647
+    }
+  },
+  {
+    "id": "WP-103",
+    "rescindments": {
+      "CX": 28066115,
+      "F": 88157
+    }
+  },
+  {
+    "id": "WP-164",
+    "rescindments": {
+      "CX": 57553666,
+      "F": 3525998
+    }
+  },
+  {
+    "id": "WP-206",
+    "rescindments": {
+      "CN": 300000,
+      "F": 7208735
+    }
+  },
+  {
+    "id": "WP-237",
+    "rescindments": {
+      "CX": 4760134
+    }
+  },
+  {
+    "id": "WP-247",
+    "rescindments": {
+      "CX": 1909495
+    }
+  },
+  {
+    "id": "WP-269",
+    "rescindments": {
+      "CX": 24095233
+    }
+  },
+  {
+    "id": "WP-283",
+    "rescindments": {
+      "CX": 36347302,
+      "F": 715121
+    }
+  },
+  {
+    "id": "WP-285",
+    "rescindments": {
+      "CX": 37025706
+    }
+  },
+  {
+    "id": "WP-288",
+    "rescindments": {
+      "CX": 358730552,
+      "F": 531770132,
+      "CN": 1186665576,
+      "S": 203593373,
+      "P": 25061159
+    }
+  },
+  {
+    "id": "AG-M001",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "AG-QN593",
+    "rescindments": {
+      "CN": 53000
+    }
+  },
+  {
+    "id": "CS-K999",
+    "rescindments": {
+      "CN": 23000
+    }
+  },
+  {
+    "id": "CS-QN179",
+    "rescindments": {
+      "CN": 204000
+    }
+  },
+  {
+    "id": "CS-QN240",
+    "rescindments": {
+      "CN": 680000
+    }
+  },
+  {
+    "id": "E-Q001",
+    "rescindments": {
+      "CN": 1325000
+    }
+  },
+  {
+    "id": "E-X001",
+    "rescindments": {
+      "CN": 1200000
+    }
+  },
+  {
+    "id": "ED-QN394",
+    "rescindments": {
+      "CN": 30000
+    }
+  },
+  {
+    "id": "ED-QN827",
+    "rescindments": {
+      "CN": 4000
+    }
+  },
+  {
+    "id": "ED-R075",
+    "rescindments": {
+      "CN": 14000
+    }
+  },
+  {
+    "id": "F-Q175",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "HD-MN170",
+    "rescindments": {
+      "CN": 250000
+    }
+  },
+  {
+    "id": "HD-MN514",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "HD-XN468",
+    "rescindments": {
+      "CN": 2000000
+    }
+  },
+  {
+    "id": "HD-XN744",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "HH-M112",
+    "rescindments": {
+      "CN": 99000
+    }
+  },
+  {
+    "id": "HL-KN328",
+    "rescindments": {
+      "CN": 11872
+    }
+  },
+  {
+    "id": "HL-MN652",
+    "rescindments": {
+      "CN": 200000
+    }
+  },
+  {
+    "id": "HL-MN830",
+    "rescindments": {
+      "CN": 66000
+    }
+  },
+  {
+    "id": "HL-QN025",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "HL-QN305",
+    "rescindments": {
+      "CN": 12000
+    }
+  },
+  {
+    "id": "HL-QN316",
+    "rescindments": {
+      "CN": 1000000
+    }
+  },
+  {
+    "id": "HL-QN367",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "HL-QN622",
+    "rescindments": {
+      "CN": 1016000
+    }
+  },
+  {
+    "id": "HL-QN623",
+    "rescindments": {
+      "CN": 1626000
+    }
+  },
+  {
+    "id": "HL-QN732",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "HL-RN140",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "HL-RN346",
+    "rescindments": {
+      "CN": 643000
+    }
+  },
+  {
+    "id": "HL-XN267",
+    "rescindments": {
+      "CN": 436000
+    }
+  },
+  {
+    "id": "HL-XN735",
+    "rescindments": {
+      "CN": 24000
+    }
+  },
+  {
+    "id": "HN-M003",
+    "rescindments": {
+      "CN": 24000
+    }
+  },
+  {
+    "id": "HN-M004",
+    "rescindments": {
+      "CN": 97000
+    }
+  },
+  {
+    "id": "HN-M300",
+    "rescindments": {
+      "CN": 41000
+    }
+  },
+  {
+    "id": "HN-Q006",
+    "rescindments": {
+      "CN": 21000,
+      "P": 612
+    }
+  },
+  {
+    "id": "HO-K001",
+    "rescindments": {
+      "CN": 17000
+    }
+  },
+  {
+    "id": "HO-M001",
+    "rescindments": {
+      "CN": 226000
+    }
+  },
+  {
+    "id": "HO-M002",
+    "rescindments": {
+      "CN": 18000
+    }
+  },
+  {
+    "id": "HO-Q003",
+    "rescindments": {
+      "CN": 25000
+    }
+  },
+  {
+    "id": "HR-MN128",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "HR-MN707",
+    "rescindments": {
+      "CN": 7000
+    }
+  },
+  {
+    "id": "HR-MN756",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "HR-MN833",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "HR-MN890",
+    "rescindments": {
+      "CN": 879
+    }
+  },
+  {
+    "id": "HR-QN103",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "HR-QN567",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "HR-QN756",
+    "rescindments": {
+      "CN": 5000
+    }
+  },
+  {
+    "id": "HR-XN756",
+    "rescindments": {
+      "CN": 3000
+    }
+  },
+  {
+    "id": "HW-R005",
+    "rescindments": {
+      "CN": 91000
+    }
+  },
+  {
+    "id": "LN-R001",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "LQ-Q122",
+    "rescindments": {
+      "CN": 10000
+    }
+  },
+  {
+    "id": "P-MN510",
+    "rescindments": {
+      "CN": 94000
+    }
+  },
+  {
+    "id": "P-MN534",
+    "rescindments": {
+      "CN": 50000
+    }
+  },
+  {
+    "id": "P-M245",
+    "rescindments": {
+      "CN": 1164000
+    }
+  },
+  {
+    "id": "P-QN534",
+    "rescindments": {
+      "CN": 300000
+    }
+  },
+  {
+    "id": "P-R245",
+    "rescindments": {
+      "CN": 149000
+    }
+  },
+  {
+    "id": "PV-MN001",
+    "rescindments": {
+      "CN": 100000
+    }
+  },
+  {
+    "id": "PV-MN002",
+    "rescindments": {
+      "CN": 10000
+    }
+  },
+  {
+    "id": "PV-MN027",
+    "rescindments": {
+      "CN": 9000
+    }
+  },
+  {
+    "id": "PV-MN131",
+    "rescindments": {
+      "CN": 6000
+    }
+  },
+  {
+    "id": "PV-MN143",
+    "rescindments": {
+      "CN": 10000
+    }
+  },
+  {
+    "id": "PV-MN162",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "PV-MN255",
+    "rescindments": {
+      "CN": 750
+    }
+  },
+  {
+    "id": "PV-MN256",
+    "rescindments": {
+      "CN": 13000
+    }
+  },
+  {
+    "id": "PV-MN277",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "PV-MN354",
+    "rescindments": {
+      "CN": 15000
+    }
+  },
+  {
+    "id": "PV-MN385",
+    "rescindments": {
+      "CN": 4000
+    }
+  },
+  {
+    "id": "PV-MN430",
+    "rescindments": {
+      "CN": 93000
+    }
+  },
+  {
+    "id": "PV-MN454",
+    "rescindments": {
+      "CN": 13517
+    }
+  },
+  {
+    "id": "PV-MN461",
+    "rescindments": {
+      "CN": 7741
+    }
+  },
+  {
+    "id": "PV-MN717",
+    "rescindments": {
+      "CN": 1000
+    }
+  },
+  {
+    "id": "PV-MN992",
+    "rescindments": {
+      "CN": 150000
+    }
+  },
+  {
+    "id": "PV-M022",
+    "rescindments": {
+      "CN": 68000
+    }
+  },
+  {
+    "id": "PV-M034",
+    "rescindments": {
+      "CN": 198000
+    }
+  },
+  {
+    "id": "PV-M279",
+    "rescindments": {
+      "CN": 10000
+    }
+  },
+  {
+    "id": "PV-M467",
+    "rescindments": {
+      "CN": 167000
+    }
+  },
+  {
+    "id": "PV-M503",
+    "rescindments": {
+      "CN": 20000
+    }
+  },
+  {
+    "id": "PV-QN373",
+    "rescindments": {
+      "CN": 108771
+    }
+  },
+  {
+    "id": "PV-QN773",
+    "rescindments": {
+      "CN": 38000
+    }
+  },
+  {
+    "id": "PV-Q272",
+    "rescindments": {
+      "CN": 4000
+    }
+  },
+  {
+    "id": "PV-Q274",
+    "rescindments": {
+      "CN": 7000
+    }
+  },
+  {
+    "id": "PV-Q466",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "PV-Q467",
+    "rescindments": {
+      "CN": 8000
+    }
+  },
+  {
+    "id": "PV-R175",
+    "rescindments": {
+      "CN": 109000
+    }
+  },
+  {
+    "id": "PV-R341",
+    "rescindments": {
+      "CN": 2000
+    }
+  },
+  {
+    "id": "PV-XN297",
+    "rescindments": {
+      "CN": 35000
+    }
+  },
+  {
+    "id": "PV-XN719",
+    "rescindments": {
+      "CN": 5000
+    }
+  },
+  {
+    "id": "PV-X006",
+    "rescindments": {
+      "CN": 75000
+    }
+  },
+  {
+    "id": "PV-X999",
+    "rescindments": {
+      "CN": 39000
+    }
+  },
+  {
+    "id": "PW-KN243",
+    "rescindments": {
+      "CN": 200000
+    }
+  },
+  {
+    "id": "PW-KN673",
+    "rescindments": {
+      "CN": 208000
+    }
+  },
+  {
+    "id": "PW-MN01B",
+    "rescindments": {
+      "CN": 7000
+    }
+  },
+  {
+    "id": "PW-MN116",
+    "rescindments": {
+      "CN": 350000
+    }
+  },
+  {
+    "id": "PW-MN249",
+    "rescindments": {
+      "CN": 37000
+    }
+  },
+  {
+    "id": "PW-MN625",
+    "rescindments": {
+      "CN": 186000
+    }
+  },
+  {
+    "id": "PW-MN721",
+    "rescindments": {
+      "CN": 7000
+    }
+  },
+  {
+    "id": "PW-MN940",
+    "rescindments": {
+      "CN": 380000
+    }
+  },
+  {
+    "id": "PW-QN311",
+    "rescindments": {
+      "CN": 500000
+    }
+  },
+  {
+    "id": "PW-QN317",
+    "rescindments": {
+      "CN": 18789
+    }
+  },
+  {
+    "id": "PW-QN722",
+    "rescindments": {
+      "CN": 36000
+    }
+  },
+  {
+    "id": "PW-QN723",
+    "rescindments": {
+      "CN": 37865
+    }
+  },
+  {
+    "id": "PW-Q077",
+    "rescindments": {
+      "CN": 2667000
+    }
+  },
+  {
+    "id": "PW-XN724",
+    "rescindments": {
+      "CN": 119725
+    }
+  }
+]

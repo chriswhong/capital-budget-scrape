@@ -3,7 +3,7 @@ const { reader, writer } = require('./util/io')
 const { matchPattern, trimSubstring } = require('./util/line')
 const { formatCost, parseCostAndAssign } = require('./util/format')
 
-const { BUDGETLINE_ID_PATTERN, COST_TYPE_PATTERN } = require('./util/patterns')
+const { BUDGETLINE_ID_PATTERN } = require('./util/patterns')
 
 // grab inputPath, derive outputPath
 const inputPath = process.argv[2]
@@ -16,7 +16,7 @@ let budgetLine
 let startParsingLines = false // toggled when we reach the line prior to the data we want to scrape
 let page2Index = -1
 let pageItems = []
-let items = []
+const items = []
 
 const createEmptyBudgetLine = () => {
   return {
@@ -117,7 +117,7 @@ reader(inputPath)
     }
 
     // start parsing lines page 2
-    if (/COMPLETE       OPERATION      COMPLETION/.test(line)) {
+    if (/COMPLETE {7}OPERATION {6}COMPLETION/.test(line)) {
       startParsingLines = true
       budgetPage = 1
       return
@@ -125,7 +125,7 @@ reader(inputPath)
 
     if (startParsingLines) {
       if (budgetPage === 0) {
-        //parse first page lines
+        // parse first page lines
         if (/------------------------------------------------------------------------------------------------------------------------------------/.test(line)) {
           budgetLine && budgetLine.id && pageItems.push(budgetLine)
           budgetLine = createEmptyBudgetLine()
@@ -136,7 +136,8 @@ reader(inputPath)
           // check to see if we are on the first line
           if (matchPattern(0, 10, line, BUDGETLINE_ID_PATTERN)) {
             budgetLine.id = trimSubstring(0, 10, line)
-            budgetLine.totalEstimatedCost = trimSubstring(63, 80, line)
+            const totalEstimatedCost = trimSubstring(63, 80, line)
+            budgetLine.totalEstimatedCost = totalEstimatedCost === 'CP' ? totalEstimatedCost : formatCost(totalEstimatedCost)
             parsePage1Fields(line)
             return
           } else {

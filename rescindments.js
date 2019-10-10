@@ -10,7 +10,6 @@ const inputPath = process.argv[2]
 const fileName = path.basename(inputPath, '.txt')
 const outputPath = `data/${fileName}-rescindments.json`
 
-
 let budgetLineId = ''
 let rescindments = {}
 let startParsingLines = false // toggled when we reach the line prior to the data we want to scrape
@@ -29,7 +28,7 @@ const parseRescindment = (line) => {
 const pushItem = () => {
   const item = {
     id: budgetLineId,
-    rescindments,
+    rescindments
   }
   console.log(item)
   items.push(item)
@@ -68,7 +67,7 @@ reader(inputPath)
     //
     if (startParsingLines) {
       if (matchPattern(0, 10, line, BUDGETLINE_ID_PATTERN)) {
-        if (budgetLineId != '') {
+        if (budgetLineId !== '') {
           pushItem()
         }
         // start a new item

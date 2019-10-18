@@ -3,7 +3,7 @@ const { reader, writer } = require('./util/io')
 const { trimLine, matchPattern, trimSubstring } = require('./util/line')
 const { formatCost, parseCostAndAssign } = require('./util/format')
 
-const { BUDGETLINE_ID_PATTERN } = require('./util/patterns')
+const { BUDGETLINE_ID_PATTERN, getFY } = require('./util/patterns')
 
 // grab inputPath, derive outputPath
 const inputPath = process.argv[2]
@@ -11,6 +11,7 @@ const fileName = path.basename(inputPath, '.txt')
 const outputPath = `data/${fileName}.json`
 
 // 0 or 1, representing the two pages that a single budget line appears across
+let fy
 let budgetPage
 let budgetLine
 let startParsingLines = false // toggled when we reach the line prior to the data we want to scrape
@@ -20,6 +21,7 @@ const items = []
 
 const createEmptyBudgetLine = () => {
   return {
+    fy,
     id: '',
     fmsId: '',
     description: '',
@@ -107,6 +109,10 @@ const parsePage2Fields = (line) => {
 reader(inputPath)
   .on('line', (line) => {
     line = trimLine(line)
+    if (!fy) {
+      fy = getFY(line)
+    } 
+
     // start parsing lines page 1
     if (/PRIOR APPROPRIATIONS/.test(line)) {
       startParsingLines = true

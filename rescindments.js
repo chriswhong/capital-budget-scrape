@@ -3,13 +3,14 @@ const { reader, writer } = require('./util/io')
 const { trimLine, matchPattern, trimSubstring } = require('./util/line')
 const { formatCost } = require('./util/format')
 
-const { BUDGETLINE_ID_PATTERN, COST_TYPE_PATTERN } = require('./util/patterns')
+const { BUDGETLINE_ID_PATTERN, COST_TYPE_PATTERN, getFY } = require('./util/patterns')
 
 // grab inputPath, derive outputPath
 const inputPath = process.argv[2]
 const fileName = path.basename(inputPath, '.txt')
 const outputPath = `data/${fileName}-rescindments.json`
 
+let fy
 let budgetLineId = ''
 let rescindments = {}
 let startParsingLines = false // toggled when we reach the line prior to the data we want to scrape
@@ -27,6 +28,7 @@ const parseRescindment = (line) => {
 
 const pushItem = () => {
   const item = {
+    fy,
     id: budgetLineId,
     rescindments
   }
@@ -42,6 +44,10 @@ const pushItem = () => {
 reader(inputPath)
   .on('line', (line) => {
     line = trimLine(line)
+    if (!fy) {
+      fy = getFY(line)
+    } 
+
     // start parsing lines once this pattern is found
     if (/AMOUNT RESCINDED/.test(line)) {
       startParsingLines = true

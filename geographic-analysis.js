@@ -2,14 +2,16 @@ const path = require('path')
 const { reader, writer } = require('./util/io')
 const { trimLine, matchPattern, trimSubstring } = require('./util/line')
 
-const { BUDGETLINE_ID_PATTERN } = require('./util/patterns')
+const { BUDGETLINE_ID_PATTERN, getFY } = require('./util/patterns')
 
 // grab inputPath, derive outputPath
 const inputPath = process.argv[2]
 const fileName = path.basename(inputPath, '.txt')
 const outputPath = `data/${fileName}-geographic.json`
 
+let fy
 let geography = ''
+
 let startParsingLines = false // toggled when we reach the line prior to the data we want to scrape
 const items = []
 
@@ -18,6 +20,9 @@ reader(inputPath)
   .on('line', (line) => {
     
     line = trimLine(line)
+    if (!fy) {
+      fy = getFY(line)
+    } 
 
     // pattern to start parsing
     if (/BOROUGH ANALYSIS OF /.test(line)) {
@@ -59,6 +64,7 @@ reader(inputPath)
 
         // build an item to push to the array
         const item = {
+          fy,
           id,
           geography
         }

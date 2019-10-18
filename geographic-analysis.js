@@ -1,6 +1,6 @@
 const path = require('path')
 const { reader, writer } = require('./util/io')
-const { matchPattern, trimSubstring } = require('./util/line')
+const { trimLine, matchPattern, trimSubstring } = require('./util/line')
 
 const { BUDGETLINE_ID_PATTERN } = require('./util/patterns')
 
@@ -16,7 +16,10 @@ const items = []
 // fire up a line-by-line reader
 reader(inputPath)
   .on('line', (line) => {
-  // pattern to start parsing
+    
+    line = trimLine(line)
+
+    // pattern to start parsing
     if (/BOROUGH ANALYSIS OF /.test(line)) {
       startParsingLines = true
       return

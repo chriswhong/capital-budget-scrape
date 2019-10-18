@@ -1,6 +1,6 @@
 const path = require('path')
 const { reader, writer } = require('./util/io')
-const { matchPattern, trimSubstring } = require('./util/line')
+const { trimLine, matchPattern, trimSubstring } = require('./util/line')
 const { formatCost } = require('./util/format')
 
 const { BUDGETLINE_ID_PATTERN, COST_TYPE_PATTERN } = require('./util/patterns')
@@ -41,6 +41,7 @@ const pushItem = () => {
 // fire up a line-by-line reader
 reader(inputPath)
   .on('line', (line) => {
+    line = trimLine(line)
     // start parsing lines once this pattern is found
     if (/AMOUNT RESCINDED/.test(line)) {
       startParsingLines = true

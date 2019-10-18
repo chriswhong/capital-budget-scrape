@@ -1,6 +1,6 @@
 const path = require('path')
 const { reader, writer } = require('./util/io')
-const { matchPattern, trimSubstring } = require('./util/line')
+const { trimLine, matchPattern, trimSubstring } = require('./util/line')
 const { formatCost, parseCostAndAssign } = require('./util/format')
 
 const { BUDGETLINE_ID_PATTERN } = require('./util/patterns')
@@ -106,6 +106,7 @@ const parsePage2Fields = (line) => {
 
 reader(inputPath)
   .on('line', (line) => {
+    line = trimLine(line)
     // start parsing lines page 1
     if (/PRIOR APPROPRIATIONS/.test(line)) {
       startParsingLines = true

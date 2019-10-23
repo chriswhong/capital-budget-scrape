@@ -1,3 +1,10 @@
+// amount of spaces at beginning of each line
+// when converted using pdftotext
+const OFFSET = 9 
+
+const trimLine = (line) => {
+  return line.substring(OFFSET)
+}
 const matchPattern = (start, end, line, pattern) => {
   return trimSubstring(start, end, line).match(pattern)
 }
@@ -8,5 +15,5 @@ const trimSubstring = (start, end, line) => {
 }
 
 module.exports = {
-  matchPattern, trimSubstring
+  trimLine, matchPattern, trimSubstring
 }
